@@ -1,0 +1,70 @@
+{
+    "project": [
+        {
+            "name": "Registration Form",
+            "id": "",
+            "src": "images/a3.jpg",
+            "description": "Registration Form",
+            "gitLink": "www.google.com",
+            "netLink": "https://registrationformproject1.netlify.app"
+        },
+        {
+            "name": "masjid",
+            "id": "",
+            "src": "images/c2.avif",
+            "description": "Masjids based project",
+            "gitLink": "www.google.com",
+            "netLink": "https://masajids.netlify.app/"
+        },
+        {
+            "name": "AI project ",
+            "id": "",
+            "src": "images/c4.jpg",
+            "description": "How to develop AI ",
+            "gitLink": "https://github.com/Ismail-88/newsite",
+            "netLink": "https://aimd.netlify.app/"
+        },
+        {
+            "name": "validation Form",
+            "id": "",
+            "src": "images/cv8.jpg",
+            "description": "validation Form",
+            "gitLink": "https://github.com/Ismail-88/validdation-form-js",
+            "netLink": "https://rgformjs.netlify.app/"
+        },
+        {
+            "name": "TO-DO List",
+            "id": "",
+            "src": "images/ct1.png",
+            "description": "TO-DO List",
+            "gitLink": "https://github.com/Ismail-88/tosdos",
+            "netLink": "https://todobookapp.netlify.app/"
+        },
+        {
+            "name": "Music Player",
+            "id": "",
+            "src": "images/cm7.jpg",
+            "description": "Music Player",
+            "gitLink": "https://github.com/Ismail-88/music-player",
+            "netLink": "https://mdmusic.netlify.app/"
+        },
+        {
+            "name": "Color Picker",
+            "id": "",
+            "src": "images/cp1.jpg",
+            "description": "Color Picker",
+            "gitLink": "www.google.com",
+            "netLink": "https://colorpickingapp.netlify.app/"
+        },
+        {
+            "name": "Restaurent",
+            "id": "",
+            "src": "images/cr1.png",
+            "description": "Mario Juicy Restaurant",
+            "gitLink": "www.google.com",
+            "netLink": "www.facebook.com"
+        }
+        
+    ]
+    
+}
